@@ -1,0 +1,148 @@
+surface_data
+{
+    SurfaceProperties
+    {
+        surfacePropertyName = "concrete"
+        m_nameHash = 14594321169328232734
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood"
+        m_nameHash = 8105941626046089128
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "chainlink"
+        m_nameHash = 2129369561220238734
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_panel"
+        m_nameHash = 12847524395672507477
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metal_sand_barrel"
+        m_nameHash = 6348342192339153052
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "glass"
+        m_nameHash = 17336656063595574603
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metal"
+        m_nameHash = 4582786214424138428
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "rock"
+        m_nameHash = 11780878001689302868
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "dirt"
+        m_nameHash = 14573829157928280928
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "group"
+        m_nameHash = 15877409877253349516
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "carpet"
+        m_nameHash = 5166271236611513426
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "solidmetal"
+        m_nameHash = 12325416916234557703
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metalpanel"
+        m_nameHash = 17291625298065470330
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "plastic"
+        m_nameHash = 7786109991105085411
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_dense"
+        m_nameHash = 70611167078673952
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_plank"
+        m_nameHash = 2898003705321559051
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "vrf_unknown_key_2838185980"
+        m_nameHash = 3573187958076140499
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metal_dumpster"
+        m_nameHash = 9514493579540620475
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "rubbertire"
+        m_nameHash = 3553792184942265629
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metalvehicle"
+        m_nameHash = 7380356065280302308
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metalvent"
+        m_nameHash = 12519209649147247499
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_crate"
+        m_nameHash = 14995020469224051152
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_basket"
+        m_nameHash = 15750388677535498819
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "pottery"
+        m_nameHash = 5866877128097624258
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_solid"
+        m_nameHash = 7971253421247607524
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "tile"
+        m_nameHash = 2184415071832886441
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "sand"
+        m_nameHash = 686041485956360803
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_tree"
+        m_nameHash = 14361004948291425957
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "computer"
+        m_nameHash = 788529517848793240
+    }
+}
