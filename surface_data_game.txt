@@ -2,38 +2,8 @@ surface_data_game
 {
     SurfaceProperties
     {
-        surfacePropertyName = "concrete"
-        bulletPenetrationDistanceModifier = 0.5
-        bulletPenetrationDamageModifier = 0.25
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood"
-        bulletPenetrationDistanceModifier = 0.9
-        bulletPenetrationDamageModifier = 0.6
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "chainlink"
-        bulletPenetrationDistanceModifier = 0.99
-        bulletPenetrationDamageModifier = 0.99
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood_panel"
-        bulletPenetrationDistanceModifier = 1.0
-        bulletPenetrationDamageModifier = 1.0
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "metal_sand_barrel"
-        bulletPenetrationDistanceModifier = 0.01
-        bulletPenetrationDamageModifier = 0.01
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "glass"
-        bulletPenetrationDistanceModifier = 0.99
+        surfacePropertyName = "wood_plank"
+        bulletPenetrationDistanceModifier = 0.85
         bulletPenetrationDamageModifier = 1.0
     }
     SurfaceProperties
@@ -44,75 +14,9 @@ surface_data_game
     }
     SurfaceProperties
     {
-        surfacePropertyName = "rock"
-        bulletPenetrationDistanceModifier = 1.0
-        bulletPenetrationDamageModifier = 0.25
-    }
-    SurfaceProperties
-    {
         surfacePropertyName = "dirt"
         bulletPenetrationDistanceModifier = 0.6
         bulletPenetrationDamageModifier = 0.3
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "group"
-        bulletPenetrationDistanceModifier = 1.0
-        bulletPenetrationDamageModifier = 1.0
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "carpet"
-        bulletPenetrationDistanceModifier = 0.75
-        bulletPenetrationDamageModifier = 1.0
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "solidmetal"
-        bulletPenetrationDistanceModifier = 0.27
-        bulletPenetrationDamageModifier = 0.3
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "metalpanel"
-        bulletPenetrationDistanceModifier = 0.5
-        bulletPenetrationDamageModifier = 0.45
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "plastic"
-        bulletPenetrationDistanceModifier = 1.0
-        bulletPenetrationDamageModifier = 1.0
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood_dense"
-        bulletPenetrationDistanceModifier = 0.5
-        bulletPenetrationDamageModifier = 0.3
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood_plank"
-        bulletPenetrationDistanceModifier = 0.85
-        bulletPenetrationDamageModifier = 1.0
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "vrf_unknown_key_2838185980"
-        bulletPenetrationDistanceModifier = 1.0
-        bulletPenetrationDamageModifier = 1.0
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "metal_dumpster"
-        bulletPenetrationDistanceModifier = 1.0
-        bulletPenetrationDamageModifier = 1.0
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "rubbertire"
-        bulletPenetrationDistanceModifier = 1.0
-        bulletPenetrationDamageModifier = 1.0
     }
     SurfaceProperties
     {
@@ -122,20 +26,56 @@ surface_data_game
     }
     SurfaceProperties
     {
-        surfacePropertyName = "metalvent"
-        bulletPenetrationDistanceModifier = 0.6
-        bulletPenetrationDamageModifier = 0.45
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood_crate"
-        bulletPenetrationDistanceModifier = 0.9
+        surfacePropertyName = "glass"
+        bulletPenetrationDistanceModifier = 0.99
         bulletPenetrationDamageModifier = 1.0
     }
     SurfaceProperties
     {
-        surfacePropertyName = "wood_basket"
+        surfacePropertyName = "metalpanel"
+        bulletPenetrationDistanceModifier = 0.5
+        bulletPenetrationDamageModifier = 0.45
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "solidmetal"
+        bulletPenetrationDistanceModifier = 0.27
+        bulletPenetrationDamageModifier = 0.3
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "rock"
+        bulletPenetrationDistanceModifier = 1.0
+        bulletPenetrationDamageModifier = 0.25
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood"
         bulletPenetrationDistanceModifier = 0.9
+        bulletPenetrationDamageModifier = 0.6
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_panel"
+        bulletPenetrationDistanceModifier = 1.0
+        bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "cardboard"
+        bulletPenetrationDistanceModifier = 0.95
+        bulletPenetrationDamageModifier = 0.99
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "concrete"
+        bulletPenetrationDistanceModifier = 0.5
+        bulletPenetrationDamageModifier = 0.25
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "boulder"
+        bulletPenetrationDistanceModifier = 1.0
         bulletPenetrationDamageModifier = 1.0
     }
     SurfaceProperties
@@ -152,26 +92,98 @@ surface_data_game
     }
     SurfaceProperties
     {
-        surfacePropertyName = "tile"
+        surfacePropertyName = "group"
+        bulletPenetrationDistanceModifier = 1.0
+        bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "no_decal"
+        bulletPenetrationDistanceModifier = 1.0
+        bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metal_barrel"
+        bulletPenetrationDistanceModifier = 1.0
+        bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "plaster"
         bulletPenetrationDistanceModifier = 0.7
+        bulletPenetrationDamageModifier = 0.6
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "upholstery"
+        bulletPenetrationDistanceModifier = 0.75
+        bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_furniture"
+        bulletPenetrationDistanceModifier = 1.0
+        bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "chainlink"
+        bulletPenetrationDistanceModifier = 0.99
+        bulletPenetrationDamageModifier = 0.99
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "brick"
+        bulletPenetrationDistanceModifier = 0.47
         bulletPenetrationDamageModifier = 0.3
     }
     SurfaceProperties
     {
-        surfacePropertyName = "sand"
-        bulletPenetrationDistanceModifier = 0.3
-        bulletPenetrationDamageModifier = 0.25
+        surfacePropertyName = "carpet"
+        bulletPenetrationDistanceModifier = 0.75
+        bulletPenetrationDamageModifier = 1.0
     }
     SurfaceProperties
     {
-        surfacePropertyName = "wood_tree"
+        surfacePropertyName = "metal_sand_barrel"
+        bulletPenetrationDistanceModifier = 0.01
+        bulletPenetrationDamageModifier = 0.01
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "plastic_box"
         bulletPenetrationDistanceModifier = 1.0
         bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "rubber"
+        bulletPenetrationDistanceModifier = 0.85
+        bulletPenetrationDamageModifier = 0.5
     }
     SurfaceProperties
     {
         surfacePropertyName = "computer"
         bulletPenetrationDistanceModifier = 0.4
         bulletPenetrationDamageModifier = 0.45
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metalvent"
+        bulletPenetrationDistanceModifier = 0.6
+        bulletPenetrationDamageModifier = 0.45
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_basket"
+        bulletPenetrationDistanceModifier = 0.9
+        bulletPenetrationDamageModifier = 1.0
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_tree"
+        bulletPenetrationDistanceModifier = 1.0
+        bulletPenetrationDamageModifier = 1.0
     }
 }

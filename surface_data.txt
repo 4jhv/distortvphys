@@ -2,33 +2,8 @@ surface_data
 {
     SurfaceProperties
     {
-        surfacePropertyName = "concrete"
-        m_nameHash = 14594321169328232734
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood"
-        m_nameHash = 8105941626046089128
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "chainlink"
-        m_nameHash = 2129369561220238734
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood_panel"
-        m_nameHash = 12847524395672507477
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "metal_sand_barrel"
-        m_nameHash = 6348342192339153052
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "glass"
-        m_nameHash = 17336656063595574603
+        surfacePropertyName = "wood_plank"
+        m_nameHash = 2898003705321559051
     }
     SurfaceProperties
     {
@@ -37,63 +12,8 @@ surface_data
     }
     SurfaceProperties
     {
-        surfacePropertyName = "rock"
-        m_nameHash = 11780878001689302868
-    }
-    SurfaceProperties
-    {
         surfacePropertyName = "dirt"
         m_nameHash = 14573829157928280928
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "group"
-        m_nameHash = 15877409877253349516
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "carpet"
-        m_nameHash = 5166271236611513426
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "solidmetal"
-        m_nameHash = 12325416916234557703
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "metalpanel"
-        m_nameHash = 17291625298065470330
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "plastic"
-        m_nameHash = 7786109991105085411
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood_dense"
-        m_nameHash = 70611167078673952
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "wood_plank"
-        m_nameHash = 2898003705321559051
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "vrf_unknown_key_2838185980"
-        m_nameHash = 3573187958076140499
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "metal_dumpster"
-        m_nameHash = 9514493579540620475
-    }
-    SurfaceProperties
-    {
-        surfacePropertyName = "rubbertire"
-        m_nameHash = 3553792184942265629
     }
     SurfaceProperties
     {
@@ -102,18 +22,48 @@ surface_data
     }
     SurfaceProperties
     {
-        surfacePropertyName = "metalvent"
-        m_nameHash = 12519209649147247499
+        surfacePropertyName = "glass"
+        m_nameHash = 17336656063595574603
     }
     SurfaceProperties
     {
-        surfacePropertyName = "wood_crate"
-        m_nameHash = 14995020469224051152
+        surfacePropertyName = "metalpanel"
+        m_nameHash = 17291625298065470330
     }
     SurfaceProperties
     {
-        surfacePropertyName = "wood_basket"
-        m_nameHash = 15750388677535498819
+        surfacePropertyName = "solidmetal"
+        m_nameHash = 12325416916234557703
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "rock"
+        m_nameHash = 11780878001689302868
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood"
+        m_nameHash = 8105941626046089128
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_panel"
+        m_nameHash = 12847524395672507477
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "cardboard"
+        m_nameHash = 6888893598556708797
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "concrete"
+        m_nameHash = 14594321169328232734
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "boulder"
+        m_nameHash = 8920518410972286674
     }
     SurfaceProperties
     {
@@ -127,22 +77,82 @@ surface_data
     }
     SurfaceProperties
     {
-        surfacePropertyName = "tile"
-        m_nameHash = 2184415071832886441
+        surfacePropertyName = "group"
+        m_nameHash = 15877409877253349516
     }
     SurfaceProperties
     {
-        surfacePropertyName = "sand"
-        m_nameHash = 686041485956360803
+        surfacePropertyName = "no_decal"
+        m_nameHash = 5903041386478493224
     }
     SurfaceProperties
     {
-        surfacePropertyName = "wood_tree"
-        m_nameHash = 14361004948291425957
+        surfacePropertyName = "metal_barrel"
+        m_nameHash = 6227660734551768229
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "plaster"
+        m_nameHash = 7790058337361234212
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "upholstery"
+        m_nameHash = 829184939902533630
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_furniture"
+        m_nameHash = 2159563554622237269
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "chainlink"
+        m_nameHash = 2129369561220238734
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "brick"
+        m_nameHash = 17952312515857951898
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "carpet"
+        m_nameHash = 5166271236611513426
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metal_sand_barrel"
+        m_nameHash = 6348342192339153052
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "plastic_box"
+        m_nameHash = 14473558799965343645
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "rubber"
+        m_nameHash = 4444069933922756283
     }
     SurfaceProperties
     {
         surfacePropertyName = "computer"
         m_nameHash = 788529517848793240
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "metalvent"
+        m_nameHash = 12519209649147247499
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_basket"
+        m_nameHash = 15750388677535498819
+    }
+    SurfaceProperties
+    {
+        surfacePropertyName = "wood_tree"
+        m_nameHash = 14361004948291425957
     }
 }
